@@ -207,11 +207,11 @@ const Home = () => {
                       className={`w-full flex items-center gap-3 px-3 py-2 rounded-lg transition-colors ${
                         selectedList === 'all' && !showArchived
                           ? 'bg-primary text-white'
-                          : 'hover:bg-surface-100 dark:hover:bg-surface-700 text-surface-700 dark:text-surface-300'
+: 'hover:bg-surface-100 dark:hover:bg-surface-700 text-surface-700 dark:text-surface-300'
                       }`}
                     >
                       <ApperIcon name="List" size={18} />
-                      <span>All Tasks</span>
+                      <span>Every Tasks</span>
                       <span className="ml-auto text-xs bg-surface-200 dark:bg-surface-600 px-2 py-1 rounded-full">
                         {tasks?.filter(t => !t?.archived).length || 0}
                       </span>
