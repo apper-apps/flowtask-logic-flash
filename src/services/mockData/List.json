@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "name": "Work",
+    "color": "#6366f1",
+    "icon": "Briefcase",
+    "taskCount": 5,
+    "createdAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "2",
+    "name": "Learning",
+    "color": "#10b981",
+    "icon": "BookOpen",
+    "taskCount": 4,
+    "createdAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "3",
+    "name": "Personal",
+    "color": "#f59e0b",
+    "icon": "User",
+    "taskCount": 5,
+    "createdAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "4",
+    "name": "Health",
+    "color": "#ef4444",
+    "icon": "Heart",
+    "taskCount": 0,
+    "createdAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "5",
+    "name": "Projects",
+    "color": "#8b5cf6",
+    "icon": "Folder",
+    "taskCount": 0,
+    "createdAt": "2024-01-01T00:00:00Z"
+  }
+]
